@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AtharySultan
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning deep learning
-- 📫 I can be reached via "athary.23su@gmail.com"
+- 📫 I can be reached via "atharySALsowat@outlook.com"
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
