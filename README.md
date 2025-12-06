@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AtharySultan
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning deep learning
+- 👀 I’m Full-Stack Web & Al Developer
 - 📫 I can be reached via "atharySALsowat@outlook.com"
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
